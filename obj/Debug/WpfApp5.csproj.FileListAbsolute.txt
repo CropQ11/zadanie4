@@ -1,0 +1,15 @@
+C:\Users\piotr\source\repos\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Users\piotr\source\repos\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Users\piotr\source\repos\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\WpfApp5.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\App.g.cs
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\MainWindow.baml
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Users\piotr\source\repos\WpfApp5\obj\Debug\WpfApp5.pdb

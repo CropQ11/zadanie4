@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="dodaj" Content="zaladuj" HorizontalAlignment="Left" Margin="116,253,0,0" VerticalAlignment="Top" Width="75" Click="dodaj_Click"/>
+        <Image x:Name="canvas" HorizontalAlignment="Left" Height="313" Margin="324,47,0,0" VerticalAlignment="Top" Width="384"/>
+        <Button x:Name="negat" Content="negatyw" HorizontalAlignment="Left" Margin="116,195,0,0" VerticalAlignment="Top" Width="75" Click="negat_Click"/>
+        <Button x:Name="b" Content="obroc" HorizontalAlignment="Left" Margin="116,145,0,0" VerticalAlignment="Top" Width="75" Click="b_Click"/>
+        <Button Content="lustrzane odbicie" HorizontalAlignment="Left" Margin="116,97,0,0" VerticalAlignment="Top" Width="75" Click="a_Click"/>
+        <Canvas x:Name="mn" HorizontalAlignment="Left" Height="100" Margin="694,10,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="tylko zielony" HorizontalAlignment="Left" Margin="116,47,0,0" VerticalAlignment="Top" Width="75" Click="zielony_Click" />
+
+    </Grid>
+</Window>
